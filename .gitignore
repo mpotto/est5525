@@ -76,6 +76,8 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+notebooks/l4-q5-malu.ipynb
+notebooks/l4-q5-malu.r
 
 # IPython
 profile_default/
